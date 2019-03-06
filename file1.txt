@@ -1,3 +1,6 @@
-TESTTTTTT This is my test .txt file.
+<<<<<<< HEAD
+=======
+TEST CHANGE This is my test .txt file.
+>>>>>>> 2806bb5d372b0df68eff91ef7707ce766e350f23
 
 Second Change
